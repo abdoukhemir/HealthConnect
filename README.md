@@ -77,9 +77,4 @@ According to the project's specifications, development follows an Agile methodol
 
 ## **Author**
 
-\[Your Name / GitHub Username\]  
-\[Link to your GitHub profile (Optional)\]
-
-## **License**
-
-\[Add your project's license information here, e.g., MIT, Apache 2.0, etc.\]"# HealthConnect" 
+Khemir Abderrahmen
