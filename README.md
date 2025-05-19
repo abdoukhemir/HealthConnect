@@ -18,9 +18,8 @@ The application addresses common challenges faced by patients, such as obtaining
 
 * **Kotlin:** The primary programming language for Android development.  
 * **Android Studio:** The official Integrated Development Environment (IDE) for Android development.  
-* **Artificial Intelligence (AI) Engine:** (Specify the library or framework used if known, e.g., TensorFlow Lite, a cloud-based API, etc.) for symptom analysis.  
+* **Artificial Intelligence (AI) Engine:** TensorFlow Lite for symptom analysis.  
 * **Geolocation API:** Integration with a mapping service API (e.g., Google Maps API) for doctor location features.  
-* **Backend/Database:** (Mention the backend technology and database used if applicable, e.g., Firebase, a custom backend, SQLite, etc.) for user authentication, post storage, etc.
 
 ## **Prerequisites**
 
