@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "975039652454",
+    "firebase_url": "https://healthconnect-e4400-default-rtdb.firebaseio.com",
+    "project_id": "healthconnect-e4400",
+    "storage_bucket": "healthconnect-e4400.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975039652454:android:69c5df5478b7ee481243a7",
+        "android_client_info": {
+          "package_name": "eniso.ia2.appointement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjV57aV8-kn-TYTcWG47zIxYtZNBS1zWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975039652454:android:102312908b0405aa1243a7",
+        "android_client_info": {
+          "package_name": "eniso.ia2.healthconnect2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjV57aV8-kn-TYTcWG47zIxYtZNBS1zWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
